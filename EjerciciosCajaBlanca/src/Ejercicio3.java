@@ -5,6 +5,8 @@
 import java.util.Scanner;
 //Este comentario es de prueba
 
+//Otro comentario de prueba
+
 public class Ejercicio3 {
 
 	// Constantes
