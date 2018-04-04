@@ -3,6 +3,7 @@
  * visualiza su tabla de multiplicar. Si el número no está en el rango [0-10] vuelve a solicitarlo.
  */
 import java.util.Scanner;
+//Este comentario es de prueba
 
 public class Ejercicio3 {
 
