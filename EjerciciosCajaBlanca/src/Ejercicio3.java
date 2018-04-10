@@ -9,6 +9,8 @@ import java.util.Scanner;
 
 //Comentario cuatro
 
+//Cambio realizado por Rafa. [*---------------------------------------------------------*]
+
 public class Ejercicio3 {
 
 	// Constantes
