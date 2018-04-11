@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 //Otro comentario de prueba
 
-//Comentario cuatro Rafa
+//Comentario cuatro Rafa y Sonia
 
 //Cambio realizado por Rafa. [*---------------------------------------------------------*]
 
